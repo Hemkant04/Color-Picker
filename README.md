@@ -1,3 +1,3 @@
-#Color Picker Web App
+#Color_Picker_Web_App
 
-<User can select color and their has code here and use it anywhere or in any project>
+<p>User can select color and their has code here and use it anywhere or in any project</p>
